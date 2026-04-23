@@ -1,4 +1,4 @@
-# iaEste documento apresenta o registro do raciocínio estratégico para o desenvolvimento de uma IA de busca de vagas e o **Miniguia de Estudo** consolidado conforme solicitado.
+# iaEste documento apresenta o registro do raciocínio estratégico para o desenvolvimento de uma IA de busca de vagas e o **Miniguia de Estudo** 
 
 ### 1. Registro do Processo de Raciocínio e Troubleshooting
 
